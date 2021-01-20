@@ -1,0 +1,12 @@
+This is a classification problem. The training data contain of 463,715 samples, and the test data contain
+51,630 samples. The features are 90 dimensional and real-valued. The possible labels are 0 (36,487; 8%), 1
+(149,746; 32%), 2 (277,482; 60%), where the values in parentheses denote the number of samples with each
+label and their proportions.
+
+Each data point is a song, and the features are related to how much power there is in different frequencies
+throughout the song. The labels are something to do with the year the song was released (further information was kept from me during development, and I cannot disclose it).
+
+Final evaluation metrics on unseen data
+Balanced Accuracy Score 0.536887206049033
+
+62nd percentile in my class
